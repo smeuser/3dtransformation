@@ -52,3 +52,9 @@ This can be down as follows:
 ## known issues
 
 - there is no backface culling implemented (prevent showing vertices or edges which should be covered by other objects)
+
+## History
+
+This project was created on 2005 with java 1.2. The intention was to just learn java and object-oriented programming through my qualification.
+There are no modern software development concepts applied which are currently must haves like design patterns, SOLID or dependency injection.
+The only concept I did try to follow was the MVC pattern by my personal understanding. To this time just learning java was the key, and I did try to do more than my qualification was about to teach me to this point.
